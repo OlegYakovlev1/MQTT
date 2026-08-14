@@ -19,8 +19,8 @@
 
 // ================= НАЛАШТУВАННЯ =================
 
-constexpr const char* WIFI_SSID = "TP-LINK_C4CE";
-constexpr const char* WIFI_PASS = "41293980";
+constexpr const char* WIFI_SSID = "YOUR_WIFI_SSID";
+constexpr const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
 
 constexpr const char* BROKER_URI = "mqtt://broker.hivemq.com";
 
